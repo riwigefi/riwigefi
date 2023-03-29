@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+This is **riwigefi**, nice to meet you.
+
+I am a front-end engineer. I love creating interesting things and trying out new technologies and frameworks.
