@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 This is **riwigefi**, nice to meet you.
 
 I am a front-end engineer. I love creating interesting things and trying out new technologies and frameworks.
+
+ <img src="https://github-readme-stats.vercel.app/api?username=riwigefi&show_icons=true&count_private=true&theme=dark" />
